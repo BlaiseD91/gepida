@@ -7,3 +7,11 @@
 * Github: https://github.com/BlaiseD91/
 * Licenc: GNU GPL
 */
+
+.hover:hover{
+    border-bottom: 2px goldenrod solid;
+    color: goldenrod;
+}
+th{
+    color: goldenrod;
+}
