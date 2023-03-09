@@ -8,6 +8,9 @@
 * Licenc: GNU GPL
 */
 
+.about{
+    background: linear-gradient(to right, #212529, goldenrod);
+}
 blockquote{
     font-style: italic;
 }
