@@ -1,5 +1,5 @@
 /*
-* File: style.css
+* File: app.js
 * Author: Székely Balázs Csaba
 * Copyright: 2023, Székely Balázs Csaba
 * Group: SZOFT 1/I/E
