@@ -3,7 +3,7 @@
 * Author: Székely Balázs Csaba
 * Copyright: 2023, Székely Balázs Csaba
 * Group: SZOFT 1/I/E
-* Date: 2023-03-08
+* Date: 2023-03-09
 * Github: https://github.com/BlaiseD91/
 * Licenc: GNU GPL
 */
@@ -11,7 +11,7 @@
 const dataTable = document.querySelector('#dataTable');
 
 const bikes = [
-    { name: "cassis", col: 28, category: "offroad", price: 557900 },
+    { name: "Cassis", col: 28, category: "offroad", price: 557900 },
     { name: "Albion 900", col: 28, category: "trekking", price: 519900 },
     { name: "Asgard", col: 29, category: "technikás utak", price: 519900 },
     { name: "Ruga", col: 29, category: "hegyi", price: 372900 },
